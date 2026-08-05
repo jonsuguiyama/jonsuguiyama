@@ -54,8 +54,8 @@ Full-stack developer based in São Paulo, Brazil. Angular, React, TypeScript, No
 
 **Featured projects**
 
-- **[jobmetrics](https://github.com/jonsuguiyama/jobmetrics)** — upload your resume, search real developer job postings, get a live-updating match score powered by an LLM and a real message queue behind the scenes.
-- **[csv-insights](https://github.com/jonsuguiyama/csv-insights)** — full-stack CSV data visualization dashboard with OAuth authentication, built with Next.js and TypeScript.
-- **[last-form](https://github.com/jonsuguiyama/last-form)** — universal Chrome autofill extension for job applications, using Gemini with manual review before applying.
-- **[ghost-job-detector](https://github.com/jonsuguiyama/ghost-job-detector)** — checklist and automatic text analysis to tell whether a job posting is real or a ghost job, PT/EN/ES with real sources.
-- **[workflow-manager](https://github.com/jonsuguiyama/workflow-manager)** — Kanban-style task management app built to demonstrate full-stack capabilities and infrastructure security with isolated temporary user sandboxes.
+- **[jobmetrics](https://github.com/jonsuguiyama/jobmetrics)**: upload your resume, search real developer job postings, get a live-updating match score powered by an LLM and a real message queue behind the scenes.
+- **[csv-insights](https://github.com/jonsuguiyama/csv-insights)**: full-stack CSV data visualization dashboard with OAuth authentication, built with Next.js and TypeScript.
+- **[last-form](https://github.com/jonsuguiyama/last-form)**: universal Chrome autofill extension for job applications, using Gemini with manual review before applying.
+- **[ghost-job-detector](https://github.com/jonsuguiyama/ghost-job-detector)**: checklist and automatic text analysis to tell whether a job posting is real or a ghost job, PT/EN/ES with real sources.
+- **[workflow-manager](https://github.com/jonsuguiyama/workflow-manager)**: Kanban-style task management app built to demonstrate full-stack capabilities and infrastructure security with isolated temporary user sandboxes.
