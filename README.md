@@ -29,12 +29,6 @@ Full-stack developer based in São Paulo, Brazil. Angular, React, TypeScript, No
 </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=jonsuguiyama&theme=github-dark-blue&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=jonsuguiyama&theme=default&hide_border=true">
-  <img src="https://streak-stats.demolab.com/?user=jonsuguiyama&theme=default&hide_border=true" alt="Jon's GitHub streak">
-</picture>
-
 <br><br>
 
 **Stack**
